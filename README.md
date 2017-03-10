@@ -1,5 +1,12 @@
 # CursoAluraHTML5eCCS3
-Curso HTML5 e CSS3 I: Suas primeiras páginas da Web
+Curso HTML5 e CSS3 I: Suas primeiras páginas da Web<br><br>
+Quais os pré-requisitos sugeridos para esse curso?
+Você não precisa ter feito nenhum outro curso para acompanhar esse!
+Quantos exercícios esse curso possui?
+99 exercícios
+Quanto tempo de vídeo esse curso possui?
+167 minutos
+
 
 
 
