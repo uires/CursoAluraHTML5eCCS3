@@ -1,24 +1,22 @@
 h1{
 	font-size: 30px;
-	background-color: rgb( 120 , 30 , 60);
-	color: rgb(250, 255, 255);
+	background-color: rgb(0, 255, 255);
+	color: #8B8682;
 	text-align: center;
 
 }
 
 h2{
 	font-size: 25px;
-	color: rgb(250, 255, 255);
-	text-align: center;
+	color: #8B8682;
+	
 	font-family: "Arial";
 
 }
-p{
-
-	text-align: center;
-	color: rgb(250, 255, 255);
+p{	
+	color: #8B8682;
 	font-family: "Arial";
 }
 html{
-	background-color: rgb(120, 30, 60);
+	
 }
