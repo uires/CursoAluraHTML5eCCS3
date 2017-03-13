@@ -1,6 +1,6 @@
 h1{
 	font-size: 30px;
-	background-color: rgb(0, 255, 255);
+	background-color: rgb(100, 39, 65);
 	color: #8B8682;
 	text-align: center;
 
@@ -19,4 +19,7 @@ p{
 }
 html{
 	
+}
+cite{
+	color: #8B8682;
 }
