@@ -1,4 +1,4 @@
-h1{
+main h1{
 	font-size: 30px;
 	background-color: rgb(100, 39, 65);
 	color: #8B8682;
@@ -9,17 +9,20 @@ h1{
 h2{
 	font-size: 25px;
 	color: #8B8682;
-	
 	font-family: "Arial";
-
+}
+body{
+	background-color: #F2FFFC;
+	
 }
 p{	
 	color: #8B8682;
 	font-family: "Arial";
 }
-html{
-	
-}
 cite{
 	color: #8B8682;
+}
+
+li{
+
 }
