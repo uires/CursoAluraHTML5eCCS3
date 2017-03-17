@@ -1,28 +1,37 @@
-main h1{
-	font-size: 30px;
-	background-color: rgb(100, 39, 65);
-	color: #8B8682;
-	text-align: center;
-
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #F2FFFC;
+    font-size: 120%;
 }
 
-h2{
-	font-size: 25px;
-	color: #8B8682;
-	font-family: "Arial";
-}
-body{
-	background-color: #F2FFFC;
-	
-}
-p{	
-	color: #8B8682;
-	font-family: "Arial";
-}
-cite{
-	color: #8B8682;
+h1, h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
-li{
+main h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+}
 
+p {
+    text-align: justify;
+}
+
+blockquote {
+    background-color: #D9E5E3;
+}
+
+aside {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+footer {
+    background-color: #000;
+    color: #F2FFFC;
+}
+
+nav a {
+    color: #F2FFFC;
 }
