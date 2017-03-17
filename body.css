@@ -28,10 +28,26 @@ aside {
 }
 
 footer {
-    background-color: #000;
-    color: #F2FFFC;
+    background-color: #000
+;    color: #F2FFFC;
 }
 
 nav a {
     color: #F2FFFC;
+}
+
+ul {
+    color: pink;
+}
+
+ul li a {
+    color: inherit;
+}
+main a {
+    color: #851944;
+}
+
+aside a {
+    color: inherit;
+    font-family: "Open Sans Condensed", sans-serif;
 }
