@@ -39,6 +39,9 @@ blockquote {
 aside {
     background-color: #3C1D3D;
     color: #F2FFFC;
+    text-align: center;
+    padding: 20px;
+    font-family: "Open Sans Condensed", sans-serif;
 }
 
 footer {
@@ -79,6 +82,12 @@ aside h1 {
 	font-size: 30px;
 	margin-bottom: 25px;
 }
-ul li a{
 
+#icones-redesociais li{
+  display: inline-block;
+}
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
 }
