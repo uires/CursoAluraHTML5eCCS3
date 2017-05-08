@@ -42,20 +42,12 @@ aside {
 }
 
 footer {
-    background-color: #000
-;    color: #F2FFFC;
+    background-color: #000;
+    color: #F2FFFC;
 }
 
 nav a {
     color: #F2FFFC;
-}
-
-ul {
-    color: pink;
-}
-
-ul li a {
-    color: inherit;
 }
 main a {
     color: #851944;
@@ -77,4 +69,16 @@ em {
 
 h2 {
 	font-size: 30px;
+}
+main div {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+aside h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+ul li a{
+
 }
