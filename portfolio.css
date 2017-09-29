@@ -1,0 +1,32 @@
+
+
+.portimg{
+
+
+}
+main h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+    padding: 30px;
+    margin: 0;
+    border-bottom: 10px solid black;
+	  font-size: 60px;
+    text-transform: uppercase;
+
+}
+
+p {
+    text-align: center;
+    margin: 20px 0;
+}
+footer{
+	background-color: black;
+	clear: both
+
+
+
+}
+img{
+	float: right;
+}
